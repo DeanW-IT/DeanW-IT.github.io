@@ -1,2 +1,2 @@
-# DeanW-IT.github.io
-DeWIT - SF Public Home Page
+#DeWIT
+SF Public Home Page
